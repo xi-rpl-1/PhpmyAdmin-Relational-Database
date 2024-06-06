@@ -17,12 +17,12 @@
 
 1. Setelah membuat database ukk, langkah selanjutnya adalah membuat tabel yang diperlukan. Di sini, kita akan membuat tabel `siswa` dengan dua kolom.
 2. Selanjutnya, klik tombol `Create`.
-   ![tabel siswa](siswa-buat-tabel.png)
+   ![tabel siswa](assets/siswa-buat-tabel.png)
 3. Setelah itu, masukkan rincian kolom seperti nama kolom, tipe data, panjang data. pada kolom tabel `siswa` terdapat 2 Kolom yaitu `nis` dan `nama`, Pastikan untuk menandai kolom `nis` sebagai atribut `PRIMARY KEY`.
-   ![buat tabel](siswa-tabel-struktur.png)
+   ![buat tabel](assets/siswa-tabel-struktur.png)
 4. Pastikan untuk menekan tombol 'Save' atau 'OK' setelah selesai mengkonfigurasi tabel.
 5. Sekarang, tabel `siswa` telah dibuat dengan jumlah kolom 2, yaitu `nis` dan `nama`.
-   ![tabel siswa](siswa-struktur.png)
+   ![tabel siswa](assets/siswa-struktur.png)
 
 ## Buat `pengawas`
 
