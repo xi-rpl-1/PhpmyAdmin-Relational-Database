@@ -110,7 +110,7 @@ sama seperti sebelumnya, sekarang kita akan memasukkan data pada tabel `pengawas
 sama seperti sebelumnya, sekarang kita akan memasukkan data pada tabel `pengawas`.
 
 1. Pertama kita masuk ke halaman tabel `nilai`.
-   ![](assets/nilai-memasukkan-data .png)
+   ![](assets/nilai-memasukkan-data%20.png)
 2. Setelah di halaman tabel `nilai`, terdapat menu bar di atas yaitu `Insert`. Lalu klik menu tersebut.
    ![](assets/nilai-memasukkan-data-1.png)
 3. Berbeda dengan tabel sebelumnya, di tabel nilai kolom `nis` dan `id_pengawas` kita tidak harus terlalu susah lagi dalam mengisi data data pada kolom yang telah terelasi atau terhubung.
